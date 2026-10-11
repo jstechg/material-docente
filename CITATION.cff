@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si utilizas o haces referencia a estos materiales, por favor cita al autor y este repositorio."
+title: "Materiales docentes de Formación Profesional y recursos de programación"
+authors:
+  - family-names: "Fernández González"
+    given-names: "José"
+abstract: >-
+  Repositorio personal de materiales docentes, resúmenes, guías,
+  ejemplos, prácticas y recursos técnicos relacionados con Formación
+  Profesional, informática, desarrollo web y programación. El repositorio
+  contiene materiales sujetos a diferentes licencias y condiciones de uso;
+  debe consultarse LICENSING.md y la información específica de cada carpeta.
+url: "https://github.com/USUARIO/REPOSITORIO"
+keywords:
+  - "Formación Profesional"
+  - "FP"
+  - "DAW"
+  - "SMR"
+  - "Sistemas Informáticos"
+  - "Desarrollo Web en Entorno Cliente"
+  - "Montaje y Mantenimiento de Equipos"
+  - "Programación"
+  - "Informática"
+  - "JavaScript"
+  - "React"
