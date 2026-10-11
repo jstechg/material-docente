@@ -77,9 +77,7 @@ Las marcas, logotipos, capturas de pantalla, imágenes, textos, programas, bibli
 
 ## Enlace oficial
 
-Cuando hayas creado el repositorio, sustituye la siguiente dirección por la URL definitiva:
-
-`https://github.com/USUARIO/REPOSITORIO`
+`https://github.com/jstechg/material-docente`
 
 ---
 
