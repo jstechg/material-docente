@@ -74,7 +74,7 @@ Las marcas, logotipos, capturas de pantalla, imágenes, textos, programas, bibli
 
 ## Enlace oficial
 
-`https://github.com/USUARIO/REPOSITORIO/tree/main/1DAW_Sistemas_Informaticos`
+`https://github.com/jstechg/material-docente/tree/main/1DAW_Sistemas_Informaticos`
 
 ---
 
