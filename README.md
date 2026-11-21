@@ -25,7 +25,7 @@ Cada carpeta principal puede contener su propio `README.md` y su propio archivo 
 
 **José Fernández González**
 
-Contacto profesional: jsfergz@yahoo.es
+Contacto profesional: [jsfergz@yahoo.es](mailto:jsfergz@yahoo.es)
 
 ## Autoría y versiones oficiales
 
